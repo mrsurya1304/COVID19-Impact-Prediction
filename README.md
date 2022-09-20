@@ -6,7 +6,7 @@
 
 # Algorithms used
 1. Prophet from Facebook
-2. Holt- Winters Exponential Smoothing
+2. Holt-Winters Exponential Smoothing
 
 # The COVID-19_Impact_Forecast.ipynb 
 - Contains the gathering of data from the URL
